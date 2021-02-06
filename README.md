@@ -1,10 +1,7 @@
 # wildermyth-fr
 
 ## Description
-Un mod pour traduire Wildermyth en français.
- 
-Wildermyth est un RPG tactique procédural, mettant l'accent sur l'histoire de vos personnages.  
-https://wildermyth.com/
+Cette branche (template) permet d'intégrer les nouveautés amenées par les nouvelles version de Wildermyth.
 
 ## Version actuelle
-0.24 Jia Trackvell
+0.33+249 Gwynne Flutebody
