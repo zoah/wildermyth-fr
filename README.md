@@ -1,7 +1,7 @@
 # wildermyth-fr
 
 ## Description
-Cette branche (template) permet d'intégrer les nouveautés amenées par les nouvelles version de Wildermyth.
+Traduction du jeu Wildermyth. Travail en cours.
 
 ## Version actuelle
-0.37+276 Ren Northfield Hotfix 2
+1.0+334 All the Bones of Summer Hotfix 6
