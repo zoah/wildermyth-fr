@@ -1,6 +1,6 @@
 ### Traduction
-Zoah
-Kharot
+Zoah  
+Kharot  
 Piohm
 
 ### Relecture
